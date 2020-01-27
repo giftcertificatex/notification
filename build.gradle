@@ -22,8 +22,8 @@ dependencies {
     // Use Scala 2.12 in our library project
     implementation 'org.scala-lang:scala-library:2.12.8'
 
-    implementation 'com.twitter:finagle-http:19.12.0'
 
+    compile group: 'com.twitter', name: 'finagle-netty3_2.12', version: '19.3.0'
     // Use Scalatest for testing our library
     testImplementation 'junit:junit:4.12'
     testImplementation 'org.scalatest:scalatest_2.12:3.0.7'

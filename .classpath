@@ -27,19 +27,164 @@
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
 	<classpathentry kind="output" path="bin/default"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-netty3_2.12/19.3.0/8722ec553ded52034cc9fad6ce287ceaeaf822d8/finagle-netty3_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-netty3_2.12/19.3.0/507f08be73375b9a194b3d761108a62e1b665d30/finagle-netty3_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-core_2.12/19.3.0/32cf964c132dd25ac09d6c76fbbe1544ea64437b/finagle-core_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-core_2.12/19.3.0/f317b5871d78ca6f5b49c439b2185ef81979b9cb/finagle-core_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-toggle_2.12/19.3.0/22c1268340e875897b020d05f3ce214e12162f42/finagle-toggle_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-toggle_2.12/19.3.0/e6f1e520f2543541deb75228f114ab7c08278159/finagle-toggle_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-jvm_2.12/19.3.0/5342693f842d94c839d306aa97dbe23a9f69acce/util-jvm_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-jvm_2.12/19.3.0/4ec9383d6e768daab68773df622599a9fe3e4804/util-jvm_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-security_2.12/19.3.0/c4fe0e4f32e2bc6205fff8ba0b6ade5dc4a6a04e/util-security_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-security_2.12/19.3.0/4e2b50b1441ab9713193f54b3a9504b7d5f7edf5/util-security_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-logging_2.12/19.3.0/a73120f23a8c298377876d8b6f79efb92503c309/util-logging_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-logging_2.12/19.3.0/8574b3a5aa18545a4dbeaad2634f0ac368705314/util-logging_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-tunable_2.12/19.3.0/5a6e7ce2d6b7260c8c8ddc4c383a2a6bff65475e/util-tunable_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-tunable_2.12/19.3.0/a56b0a6aa2894f5528e92073eaa8166d44833e8f/util-tunable_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-app_2.12/19.3.0/7ed96616bc79702412d1c1559b91667233966553/util-app_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-app_2.12/19.3.0/91be8dcba886add549cdca81809ed82b1a32c1b4/util-app_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-cache_2.12/19.3.0/ad69a099949fbf5f7a1e005fa754ec1ac898e216/util-cache_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-cache_2.12/19.3.0/c166d13dfc1ab11407db9fcea97eab2d660eeb75/util-cache_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-codec_2.12/19.3.0/b463dbf7498d550502738a6f143aa05634f76f72/util-codec_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-codec_2.12/19.3.0/7197640b47ef7e7b9f74b960a178bb2e5ed4db47/util-codec_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-stats_2.12/19.3.0/bf460f9e2ed749e987cae7c34aebbf430455544a/util-stats_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-stats_2.12/19.3.0/ba94725ca26e8e4b2fd3e48d4226994cc63f6318/util-stats_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-lint_2.12/19.3.0/142e2a5bee36cfb1dd08f9acdb28c3764e06de7/util-lint_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-lint_2.12/19.3.0/82785ac85686af8886eb42c22939dac38e162dd8/util-lint_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-registry_2.12/19.3.0/fac6f57888fad0c4c9d61c0707c41bc524673479/util-registry_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-registry_2.12/19.3.0/fa560f1b88c0246e20afe466cfc665ead60d7f21/util-registry_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-core_2.12/19.3.0/ea662adc469d3a5912d84d6f4710f87f2dd753c9/util-core_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-core_2.12/19.3.0/b6fd088ed0c5cef924ad17bf45463f960ba72d69/util-core_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-init_2.12/19.3.0/780b6867d4a40d5498fe11fec8bda1d4378f2db1/finagle-init_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/finagle-init_2.12/19.3.0/41561f923802459e704781ec6b1acdd0960132b4/finagle-init_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-hashing_2.12/19.3.0/1a90d7d8c2d6c8a8b33c34619c93af0464ae55b/util-hashing_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-hashing_2.12/19.3.0/eb0bf8aa7488c178c616da62fa9845e73fe6fcb5/util-hashing_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-function_2.12/19.3.0/41913dd3ef72a5ed10eb7aa2761a052df03ecd48/util-function_2.12-19.3.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.twitter/util-function_2.12/19.3.0/7e6e6679675edebe4a444d0815e31ef449e5cc8f/util-function_2.12-19.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-scala_2.12/2.9.6/5630f7a07e69c9d79b3d8d923dd7287a18247753/jackson-module-scala_2.12-2.9.6-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-scala_2.12/2.9.6/697083434cb4df855d42f1a77d8c903f74545b34/jackson-module-scala_2.12-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.7/98c840d3cc35317bae945ee4e7a5960b47805edb/scala-reflect-2.12.7-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.7/c5a8eb12969e77db4c0dd785c104b59d226b8265/scala-reflect-2.12.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.4/9ec2f46c07d355853654af38e8b06e15ccca8cd0/scala-parser-combinators_2.12-1.0.4-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-parser-combinators_2.12/1.0.4/7c5f25a2d40ea7651452f0f0d1d4c12dabffcb8b/scala-parser-combinators_2.12-1.0.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.10.1.Final/b961126f78f3e853973c2e99a6f40a8cef5a7262/netty-3.10.1.Final-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.10.1.Final/ca63e69a44f86ce822c73fee02267de6526acb68/netty-3.10.1.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.3.4/53d56e1ccb1d50e88ae1e1aa4a542e8cd5df4af4/caffeine-2.3.4-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.github.ben-manes.caffeine/caffeine/2.3.4/7b65cd4af7141606b9e7e74abdbbb02ef7ee0cc4/caffeine-2.3.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.11/1e2b67a2c9d8314c86800384e6ba6694225593/HdrHistogram-2.1.11-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.11/1b035a1a4ce5d3441a4a1a331d04839ef487ec49/HdrHistogram-2.1.11.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-paranamer/2.9.6/28fd15e0d895050d9e8a00bb6ff30ee66c33b614/jackson-module-paranamer-2.9.6-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-paranamer/2.9.6/cafa3a01569735a965b4c25ec3ba40aa9118e405/jackson-module-paranamer-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.6/dad3a9fbbedf8781dfd138539cd82638ebad5678/jackson-databind-2.9.6-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.6/cfa4f316351a91bfd95cb0644c6a2c95f52db1fc/jackson-databind-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.6/297b561cc2ca89e07bf4cb6445c08260b524aa4d/jackson-core-2.9.6-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.6/4e393793c37c77e042ccc7be5a914ae39251b365/jackson-core-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.6/772e16a32ed9ced658618e931847f260446803f9/jackson-annotations-2.9.6-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.6/6a0f0f154edaba00067772ce02e24f8c0973d84c/jackson-annotations-2.9.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/8f3421a8203053a6ab4b74f76a0550d21eee8cfe/paranamer-2.8-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/619eba74c19ccf1da8ebec97a2d7f8ba05773dd6/paranamer-2.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.7/198c3ef75754bdc583b2ca15e3bf87499ed951ca/scalatest_2.12-3.0.7-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.12/3.0.7/3e15aff2874207f01ca5e6592e29f9d4735166d2/scalatest_2.12-3.0.7.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.7/fe286eb7244b6089b697f56a23dc5780e4e1fa6e/scalactic_2.12-3.0.7-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scalactic/scalactic_2.12/3.0.7/320e30a7bd86703a2eeb9dfaa30700ff1a80360c/scalactic_2.12-3.0.7.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/2b4a5bbdc19f8ab34d474f30dbca957addc8ae09/scala-reflect-2.12.8-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.12.8/682d33402cdae50258afa2c0860eb54688dab610/scala-reflect-2.12.8.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.1.0/c7bc48857fb5ce8fcf62b273e695f52d38a7823a/scala-xml_2.12-1.1.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.1.0/2fb058ff138e407f3cba28748302bd8f5f90f330/scala-xml_2.12-1.1.0.jar">
@@ -49,22 +194,17 @@
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry sourcepath="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.2.0/97b3021c2ceef1170ff2f0e8a12a1cb5dfc9bfd3/scala-xml_2.12-1.2.0-sources.jar" kind="lib" path="C:/Users/dmytro.tyshchenko/.gradle/caches/modules-2/files-2.1/org.scala-lang.modules/scala-xml_2.12/1.2.0/5d38ac30beb8420dd395c0af447ba412158965e6/scala-xml_2.12-1.2.0.jar">
 		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/ProjectsScala/notification/unresolved dependency - com.twitter finagle-http 19.12.0">
-		<attributes>
-			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="gradle_used_by_scope" value="test"/>
 		</attributes>
 	</classpathentry>
 </classpath>
